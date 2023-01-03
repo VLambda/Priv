@@ -591,7 +591,7 @@
             <th>
             OneDrive
             <br>
-            <img src="./Assets/OneDrive.png"
+            <img src="./Assets/Onedrive.png"
             alt="Onedrive's Logo"
             width="48">
             </th>
@@ -607,7 +607,7 @@
             <th>
             Dropbox
             <br>
-            <img src="./Assets/Dropbox.png"
+            <img src="./Assets/DropBox.png"
             alt="Dropbox's Logo"
             width="52">
             </th>
@@ -675,8 +675,8 @@
             <th>
             <a href="https://nextcloud.com/" target="_blank">Nextcloud <i class="fa fa-external-link"></i></a>
             <br>
-            <img src="./Assets/Nextcloud.png"
-            alt="Chromium's Logo"
+            <img src="./Assets/NextCloud.png"
+            alt="Next Cloud's Logo"
             width="84">
             </th>
             <th>

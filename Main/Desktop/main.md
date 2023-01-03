@@ -733,7 +733,7 @@
         <tr>
             <th>Microsoft Outlook
             <br>
-            <img src="./Assets/Microsoft_Office_Outlook_(2018–present).svg.png"
+            <img src="./Assets/outlook.png"
             alt="Microsoft Outlook's Logo"
             width="54"
             height="48">

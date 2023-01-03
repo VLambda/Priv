@@ -807,8 +807,8 @@
             width=96></th>
             <th>
                 <ul>
-                    <li>Open Source</li>
-                    <li>Privacy Focused</li>
+                    <li align=left>Open Source</li>
+                    <li align=left>Privacy Focused</li>
                     <li align=left>Tor/Onion <a href="https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/" target="_blank">Link <i class="fa fa-external-link"></i></a></li>
                     <li align=left>⚠️Proton has Reported Activists to Authorties <a href="https://www.theverge.com/2021/9/6/22659861/protonmail-swiss-court-order-french-climate-activist-arrest-identification" target="_blank">News Article <i class="fa fa-external-link"></i></a>⚠️ </li>
                 </ul>
